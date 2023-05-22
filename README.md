@@ -29,3 +29,5 @@ Software <br> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio
 OS <br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 This is just the basic, you can find many more cool things about me on my LinkedIn. Check it out! :nerd_face::v:
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
