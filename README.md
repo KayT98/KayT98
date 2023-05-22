@@ -34,4 +34,6 @@ This is just the basic, you can find many more cool things about me on my Linked
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayT98&hide=prs,stars,prs,issues,contribs&count_private=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KayT98&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=KayT98)
