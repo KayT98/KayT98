@@ -30,4 +30,8 @@ OS <br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-bad
 
 This is just the basic, you can find many more cool things about me on my LinkedIn. Check it out! :nerd_face::v:
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayT98&hide_progress=true)](https://github.com/KayT98)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayT98&hide=prs,stars,prs,issues,contribs&count_private=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=KayT98)
