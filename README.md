@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Kay, and I like working with C# and anything related to Web development especially Frontend :D
+My name is Kay, I like working with C# and anything related to Web development especially Frontend :D
 
-Connect with me 👋 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Connect with me 👋 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kay-truong-158824185/)
 
 Languages: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
