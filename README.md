@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Kay, I like working with C# and anything related to Web development especially Frontend :D <br>
-Software Developer and Web Developer Intern at Seminaut Inc.
+My name is Kay, I enjoy working and learning C# and anything related to Web development especially Frontend :D <br>
+Former Software and Web Developer Intern at Seminaut Inc.
 
 Connect with me :handshake: <br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kay-truong-158824185/)
 
