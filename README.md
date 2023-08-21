@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kay, I enjoy working and learning C# and anything related to Web development especially Frontend :D <br>
+My name is Kay, I enjoy working, learning C# and anything related to Web development especially Frontend :D <br>
 Former Software and Web Developer Intern at Seminaut Inc.
 
 Connect with me :handshake: <br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kay-truong-158824185/)
@@ -28,7 +28,6 @@ Software <br> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio
 
 OS <br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-This is just the basic, you can find many more cool things about me on my LinkedIn. Check it out! :nerd_face::v:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayT98&hide_progress=true)](https://github.com/KayT98)
 
